@@ -37,7 +37,7 @@
 
 👨‍💻 All of my projects are available at [Sylvain's works](https://sylvaincostes.fr/work)
 
-💬 Ask me about **Linux, React, Docker**
+💬 Ask me about **Linux, NodeJS, Docker, AWS**
 
 📫 How to reach me **sylcos@proton.me**
 
