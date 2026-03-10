@@ -32,6 +32,7 @@
 <br><br>
 
 🔭 I'm currently working on **my self-hosted homelab infrastructure**
+
 🌱 I'm currently learning **GitOps & Platform Engineering at scale**
 
 👨‍💻 All of my projects are available at [sylvaincostes.com](https://sylvaincostes.com/projects)
