@@ -31,18 +31,16 @@
 
 <br><br>
 
-🔭 I’m currently working on **Simple Pleasure Audio**
+🔭 I'm currently working on **my self-hosted homelab infrastructure**
+🌱 I'm currently learning **GitOps & Platform Engineering at scale**
 
-🌱 I’m currently learning **Cloud Architecture**
-
-👨‍💻 All of my projects are available at [Sylvain's works](https://sylvaincostes.fr/work)
+👨‍💻 All of my projects are available at [sylvaincostes.com](https://sylvaincostes.com/projects)
 
 💬 Ask me about **Linux, NodeJS, Docker, AWS**
 
 📫 How to reach me **sylcos@proton.me**
 
-📄 Know about my experiences [here](https://sylvaincostes.fr/about)
-
+📄 Know about my experiences [here](https://sylvaincostes.com/about)
 ⚡ 
 
 
