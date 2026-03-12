@@ -1,3 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Sylvain Costes",
+  "url": "https://github.com/sylvaincostes",
+  "jobTitle": "Platform Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "SG CIB"
+  },
+  "sameAs": [
+    "https://sylvaincostes.com",
+    "https://www.linkedin.com/in/ton-url-linkedin"
+  ]
+}
+</script>
 
 
 <h1 align="center">Hi 👋, I'm Sylvain Costes</h1>
