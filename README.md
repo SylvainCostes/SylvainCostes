@@ -104,6 +104,15 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 
 <br/>
+<br clear="all" />
 
+---
+
+### Identity & Technical Stack
+**Sylvain Costes** is a **Platform Engineer** and **Full-stack Developer** based in **France**. 
+Expertise: **Kubernetes (K8s)**, **Docker**, **Java**, **Spring Boot**, **Cloud Infrastructure**, **AWS**, **GitOps**, **Linux**, **Terraform**, **NodeJS**, and **Automated Systems**. 
+Currently working at **SG CIB** (Société Générale Corporate and Investment Banking). 
+Official GitHub profile of **Sylvain Costes** (`github.com/sylvaincostes`).
+<br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
